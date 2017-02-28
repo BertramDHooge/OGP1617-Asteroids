@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src-provided">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Asteroids-part1.jar!/OGP1617-Asteroids/src-provided" />
+      <root url="jar://$USER_HOME$/Downloads/Asteroids-part1.jar!/OGP1617-Asteroids/tests" />
+    </SOURCES>
+  </library>
+</component>
